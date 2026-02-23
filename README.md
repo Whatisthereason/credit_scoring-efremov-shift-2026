@@ -24,7 +24,7 @@ config → preprocessing → feature_engineering → validation → tuning → f
 
 ## Result
 
-ROC-AUC ≈ 0.75 (200k+ samples, stratified hold-out). There were better results (commented cells), but the laptop had powered off during training due to system protection.
+ROC-AUC ≈ 0.75 (200k+ samples, stratified hold-out). There were better results (commented cells), but the laptop had powered off during training because of system protection.
 
 ## Data
 
