@@ -29,7 +29,7 @@ ROC-AUC ≈ 0.75 (200k+ samples, stratified hold-out). There were better results
 ## Data
 
 The original train and test datasets are ~1 GB in total and exceed GitHub’s 25 MB file size limit.  
-Only datasets with 50 entries (as a samples) are uploaded.
+Only datasets with 50 entries (as the samples) are uploaded.
 
 ## Stack
 
